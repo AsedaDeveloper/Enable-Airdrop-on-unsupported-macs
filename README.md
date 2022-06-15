@@ -13,7 +13,7 @@ You should see this ![Screen Shot 2022-06-15 at 10 22 23 PM](https://user-images
 If at any point you wish to check the current status of the AirDrop hack, issue this command in Terminal:
 `defaults read com.apple.NetworkBrowser`
 
-Here a video 
+Here's  a video 
 
 https://user-images.githubusercontent.com/74008800/173955612-8b22e9f8-40cc-4042-8853-4e4091face26.mov
 
