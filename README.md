@@ -17,3 +17,7 @@ Here's  a video
 
 https://user-images.githubusercontent.com/74008800/173955612-8b22e9f8-40cc-4042-8853-4e4091face26.mov
 
+If you are unable to dd so follow this video:
+
+https://user-images.githubusercontent.com/74008800/174050222-9bd6e764-e5b7-41a2-b3e3-dc73a2f02f0b.mp4
+
